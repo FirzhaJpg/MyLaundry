@@ -104,21 +104,14 @@ composer run setup
 
 ## Screenshots
 
-<!-- 
-  Bagian ini untuk menambahkan screenshot aplikasi.
-  Contoh format:
-  
-  ### Dashboard
-  ![Dashboard](screenshots/dashboard.png)
-  
-  ### Manajemen Pesanan
-  ![Manajemen Pesanan](screenshots/orders.png)
-  
-  ### Detail Pesanan
-  ![Detail Pesanan](screenshots/order-detail.png)
--->
+<img width="1919" height="998" alt="Screenshot 2025-12-23 230831" src="https://github.com/user-attachments/assets/dfdf2937-034c-401e-af15-32d6f14bf31a" />
+<img width="1919" height="994" alt="Screenshot 2025-12-23 230847" src="https://github.com/user-attachments/assets/d79326b0-e423-468b-b7f3-3d068e2f9547" />
+<img width="1919" height="990" alt="Screenshot 2025-12-23 230854" src="https://github.com/user-attachments/assets/6525b2ed-6d82-454d-9cd3-f19680300b14" />
+<img width="1919" height="1001" alt="Screenshot 2025-12-23 230859" src="https://github.com/user-attachments/assets/a6c9d618-cec1-4ed1-ab5c-14d6b238bb32" />
+<img width="1919" height="998" alt="Screenshot 2025-12-23 230919" src="https://github.com/user-attachments/assets/8271edd2-7905-41b9-9fc5-93f866f92993" />
+<img width="1919" height="1001" alt="Screenshot 2025-12-23 230927" src="https://github.com/user-attachments/assets/371c0f83-2e44-483c-9f15-493665773066" />
 
-*Silakan tambahkan screenshot aplikasi di sini*
+Gambar diatas adalah bagian dari sisi admin.
 
 ## Struktur Database
 
